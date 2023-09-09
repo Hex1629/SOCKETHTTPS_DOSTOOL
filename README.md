@@ -1,25 +1,31 @@
-# SOCKET HTTPS
+# SOCKET HTTPS ( DOS HTTPS :> )
 
-TOTAL METHODS 10
-
-RENEGOTIATE
-
-RENEGOTIATEv2
-
-CONTENT_RECV
+** <-- METHOD ALL --> **
 
 TLS_MIX
 
+RENEGOTIATE RENEGOTIATEV2
+
 STRONG
 
-HUGE_ALL
+CONTENT_RECV
 
-HUGE_ALLv2
+HUGE_ALL HUGE_ALLv2
 
-# METHOD FOR AMPLIFICATION SIZE ( LIKE )
+** AMPLIFICATION SIZE ( LIKE ) **
 
 WEIRD
 
 X_FORWARDED
 
 HIGH_SIZE
+
+# PROOF ( check-host )
+
+check-report/119fb534k2a2 ( chat227.net ) ( HUGE_ALLv2 )
+
+check-report/119fb5afk8f4 ( queenslot.com ) ( HUGE_ALLv2 )
+
+check-report/119fb9bekfc9 ( godslot.net ) ( HIGH_SIZE )
+
+check-report/119fbb86k506 ( godslotpg.com ) ( STRONG )

@@ -7,7 +7,7 @@
     REPLIT
     ```curl -O https://raw.githubusercontent.com/Hex1629/INSTALL_MYPROJECT/main/INSTALL_SCRIPT/sockethttps.linux && bash sockethttps.replit```
   * WINDOWS
-    ```cd %userprofile%/Downloads && cd SOCKETHTTPS_DOSTOOL-main && dir```
+    ```cd %userprofile%/Downloads && cd SOCKETHTTPS_DOSTOOL-main && pip install requests && pip install PySocks && dir```
 
 ** <-- METHOD ALL --> **
 

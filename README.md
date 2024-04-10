@@ -1,5 +1,14 @@
 # SOCKET HTTPS ( DOS HTTPS :> )
 
+* INSTALL
+  * LINUX
+    ```curl -O https://raw.githubusercontent.com/Hex1629/INSTALL_MYPROJECT/main/INSTALL_SCRIPT/sockethttps.linux && bash sockethttps.linux```
+
+    REPLIT
+    ```curl -O https://raw.githubusercontent.com/Hex1629/INSTALL_MYPROJECT/main/INSTALL_SCRIPT/sockethttps.linux && bash sockethttps.replit```
+  * WINDOWS
+    ```cd %userprofile%/Downloads && cd SOCKETHTTPS_DOSTOOL-main && dir```
+
 ** <-- METHOD ALL --> **
 
 TLS_MIX
